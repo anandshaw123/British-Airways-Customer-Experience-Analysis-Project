@@ -42,7 +42,7 @@ Travel Origin Analysis: To determine the most common countries of origin for Bri
 
 
 ## **Data Gathering/Data Collection**
-*Utilizing **BeautifulSoup,** *extensive datasets were compiled by scraping online platforms that ratings of 'British Airways' services.* 
+*Utilizing* **BeautifulSoup,** *extensive datasets were compiled by scraping online platforms that ratings of 'British Airways' services.* 
 
 
 
