@@ -27,15 +27,15 @@ This project aims to provide an in-depth analysis of British Airlines' customer 
 
 #### ***The core objective of this analysis is to:***
 
-*Customer Review Rating Analysis:* To examine the overall sentiment in customer reviews, categorizing them into positive and negative feedback.
+*Customer Review Rating Analysis:*  To examine the overall sentiment in customer reviews, categorizing them into positive and negative feedback.
 
-*Seat Comfort and Type Analysis:* To analyze customer preferences and satisfaction levels with different seat types, focusing on premium and business class.
+*Seat Comfort and Type Analysis:*  To analyze customer preferences and satisfaction levels with different seat types, focusing on premium and business class.
 
-*Cabin Staff Service Evaluation:* To assess customer feedback on cabin staff service to identify strengths and areas for improvement.
+*Cabin Staff Service Evaluation:*  assess customer feedback on cabin staff service to identify strengths and areas for improvement.
 
-*Booking Preferences Study:* To understand the trends and preferences in seat bookings, particularly in premium and business class.
+*Booking Preferences Study:*  understand the trends and preferences in seat bookings, particularly in premium and business class.
 
-*Travel Origin Analysis:* To determine the most common countries of origin for British Airways passengers.
+*Travel Origin Analysis:*  determine the most common countries of origin for British Airways passengers.
 
 
 
