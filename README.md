@@ -49,8 +49,8 @@ This project aims to provide an in-depth analysis of British Airlines' customer 
 
 
 ## **Data Cleaning**
-[Data Cleaning file](https://github.com/anandshaw123/Data-Analysis-of-British-Airways/blob/593d02eb906cdcc5181c912159f1c33010489941/After%20scraping_Data_Cleaning_of_British_Airlines.ipynb)
-The gathered data is processed to remove any irrelevant information, duplicates, and inconsistencies information. This phase ensures that our analysis is based on accurate and clean data, making our insights more reliable readable and actionable and This phase was essential to prepare the data for accurate and meaningful analysis our analysis is based on accurate and clean data, so making our insights more reliable and actionable.
+[Data Cleaning file](https://github.com/anandshaw123/British-Airways-Customer-Experience-Analysis-Project/blob/b0a2c4f2994fa14f44efc4de46f152263451063b/After%20scraping_Data_Cleaning_of_British_Airlines.ipynb)
+remove any irrelevant information, duplicates, and inconsistencies information. This phase ensures that our analysis is based on accurate and clean data, making our insights more reliable readable and actionable and This phase was essential to prepare the data for accurate and meaningful analysis our analysis is based on accurate and clean data, so making our insights more reliable and actionable.
 
 
 
@@ -84,7 +84,7 @@ Based on the analysis, detailed insights and actionable recommendations were for
 
 ## **Conclusion:**
 
-This project highlights the importance of listening to customer feedback and leveraging data analytics to enhance airline services. By focusing on specific areas of improvement identified through our analysis, British Airlines can aim to elevate their customer experience to new heights.Exploration into the factors affecting British Airways' customer satisfaction. Through diligent data gathering, cleaning, and analysis, significant insights were uncovered that highlight opportunities for enhancing the customer experience.
+Thisproject highlights the importance of listening to customer feedback and leveraging data analytics to enhance airline services. By focusing on specific areas of improvement identified through our analysis, British Airlines can aim to elevate their customer experience to new heights.Exploration into the factors affecting British Airways' customer satisfaction. Through diligent data gathering, cleaning, and analysis, significant insights were uncovered that highlight opportunities for enhancing the customer experience.
 
 
 
