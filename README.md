@@ -92,3 +92,28 @@ Thisproject highlights the importance of listening to customer feedback and leve
 
 
 
+
+______________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+## **👋 Hi, I’m Anand!📌**
+- 👀 I’m interested in **Data Science || Data Analysis** role
+- 🌱 I’m currently learning **Data Science || Machine Learning || Data Analysis || NLP ||Deep Learning || MySql || Tableau || Statistics.**
+- 💞️ I’m looking to collaborate for Data Science Projects.
+- 💬 Ask me About Data Science Machine Learning Data Analysis any tech related **Question** or **Problems.**
+- 📬 How to reach me https://www.linkedin.com/in/anand-shaw-8069a6278
+- 🖇️ **Kaggle:** https://www.kaggle.com/anandshaw2001
+- 📧 **Email Id:** anand.shaw6000@gmail.com
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I Prefer **Tea** over **Coffee.**
+
+<!---
+anandshaw123/anandshaw123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
+
+
