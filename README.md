@@ -1,7 +1,7 @@
 # British-Airways-Customer-Experience-Data-Analysis-Project
 
 
-##### British Airways Customer Experience Analysis Project.
+#### British Airways Customer Experience Analysis Project.
 
 
 This project aims to provide an in-depth analysis of British Airlines' customer experience, focusing on various aspects such as **Overall Customer reviews**, **Seat ratings**, **Cabin Staff Service**, **Seat Types**, and more. By dissecting customer feedback and ratings.Which Customers are booked like **Premium class Seats** and **Business class Seats** and what was the reviews about Seat Types and what are the **Seat Comfort Rating** Analyze their Ratings and Reviews.Which countries do people travel from the most.improve Customers Experience and Users Experience and their Reviews of British airlines. Analyzing their overall customer reviews seat ratings and reviews or cabin staff service and seat types and How many people have given a good rating and How many people have not given good rating. Which Customers are booked like **Premium class Seats** and **Business class Seats.**
